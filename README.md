@@ -60,14 +60,5 @@ Run on Tomcat Server
 Open browser:http://localhost:8086/LoginWebApp/index.html
 🔒 Security Note
 This project uses simple SQL string concatenation — in real-world apps, use PreparedStatements to avoid SQL Injection.
-## 📸 Screenshots
-
-### 🔐 Login Page
-
-![Login Page](screenshots/login.png)
-
-### 📝 Register Page
-
-![Register Page](screenshots/rigister.png)
 
 
